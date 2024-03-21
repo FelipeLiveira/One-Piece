@@ -4,7 +4,7 @@
   <p align="center"> O projeto foi desenvolvido na comunidade DevQuest, como forme de mostrar que é possível desenvolver páginas Web com facilidade e de maneira intuitiva, utilizando ferramentas básicas de HTML, CSS e JavaScript. </p>
    <p align="center">Foram utilizados os tres pilares do FrontEnd no projeto, o HTML, CSS e o JavaScript</p>
    <p align="center">O intuito do desenvolvimento foi o aprimoramento de habilidades de desenvolvimento, com a utilizacao de códigos simples e funcionais, fazendo com o que o código fosse redigido de maneira simples e intuitiva, facilitando a sua manutencao e modificacao</p>
-   <p align="center">Nessa página pode-se observar um menu lateral, onde se pode ter acesso a descricao dos personagens que compoe a "tripulacao do Chapeu de Palha" do Anime Japones One Piece e sua pequena história</p>
+   <p align="center">Nesse projeto de página web pode-se observar um menu lateral, onde se pode ter acesso a descricao dos personagens que compoe a "tripulacao do Chapeu de Palha" do Anime Japones One Piece e sua pequena história</p>
 
 </div><br>
 
